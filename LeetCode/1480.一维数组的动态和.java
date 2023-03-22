@@ -16,6 +16,7 @@ class Solution {
             retvect[i]=getsum(tempnums);
         }   
         return retvect;
+        
     }
 
     public int getsum(int[] nums){
